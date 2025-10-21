@@ -8,7 +8,7 @@ Este repositorio lo he creado para hacer pruebas de la asignatura CALIDAD durant
 
 ### Capturas de Pantalla
 
-![Página de Inicio] (screenshots/home.ong)
+![Página de Inicio](screenshots/home.ong)
 *Página de Inicio de Mi Aplicación*
 
 ## Instalación
